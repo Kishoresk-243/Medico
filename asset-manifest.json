@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/Medico/static/js/main.8e986edb.js",
+    "index.html": "/Medico/index.html",
+    "main.8e986edb.js.map": "/Medico/static/js/main.8e986edb.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.8e986edb.js"
+  ]
+}
